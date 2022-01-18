@@ -38,7 +38,7 @@ The wall you will be working from today has 7 columns:
 - Done
 
 Examples can be found
-here [https://leankit.com/learn/kanban/kanban-board/](https://leankit.com/learn/kanban/kanban-board/).
+here [https://leankit.com/learn/kanban/kanban-board/](https://leankit.com/learn/kanban/kanban-board/)
 
 ## Users
 
